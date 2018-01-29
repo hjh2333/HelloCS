@@ -2,5 +2,5 @@
 void main()
 {
   printf("Hello Changsha");
-  printf("\nGood night");
+  printf("\nSee you\n");
 }
